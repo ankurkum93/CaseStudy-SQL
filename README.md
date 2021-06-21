@@ -8,6 +8,5 @@ The file SQLqueries contains the Questions posed by Danny and the queries in MY 
 The Flavor of SQL that I have used is My SQL
 The software that I have used is MySQL workbench 5.1
 
-Future Works
-I will also add the bonus queestion for this challenge.
+Future Works will also contain the bonus question for this challenge.
 
